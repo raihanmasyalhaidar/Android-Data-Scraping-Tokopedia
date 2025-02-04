@@ -6,8 +6,7 @@
 
 <div align="justify">
 
-![image](https://github.com/user-attachments/assets/0a62fb20-5b5a-4561-bc99-3e0c71861a09)
-
+![image](https://github.com/user-attachments/assets/d8da6bb6-1e03-41f9-8bbe-ea377bc70048)
 
 ## Overview
 At the beginning of 2025, the smartphone market in Indonesia, particularly for Android devices, continues to experience rapid growth, with various brands and models competing in the market. E-commerce platforms like Tokopedia have become one of the main channels for consumers to purchase Android devices. However, the ever-changing dynamics of the Indonesian Android market, such as price trends, demand, and product variations, are not always clearly reflected in the readily available data. Therefore, this project aims to perform data scraping on Tokopedia to analyze the dynamics of the Android market in Indonesia at the beginning of 2025.
